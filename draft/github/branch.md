@@ -19,6 +19,8 @@
 
 - main에서 올린 것에 급한 버그 발생 시, 바로 수정 및 hotfix, 배포
 
+https://velog.io/@dom_hxrdy/git-%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EC%9D%84-%EC%9C%84%ED%95%9C-git-flow-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95-fttranscendence-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%91%EC%97%85-%EB%A9%94%EB%89%B4%EC%96%BC
+
 
 ## 2. Trunk-based 전략
 : main 브랜치만 가져가고, 새 기능 개발할 때마다 그에 맞는 feature 브랜치 만들어 작업, main에 merge 및 배포
